@@ -1,0 +1,11 @@
+odometer
+airspeed
+wheelspeed
+rpm
+clutch
+brake
+throttle
+parkingbrake
+absActive
+hasABS
+
